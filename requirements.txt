@@ -1,0 +1,5 @@
+yfinance
+prophet
+matplotlib
+pandas
+google-genai
